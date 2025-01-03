@@ -15,10 +15,10 @@ body {
 
 .calculator {
     width: 260px;
-    background-color: black;
+    background-color: rgb(205, 129, 129);
     border-radius: 10px;
     padding: 20px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 50 50 50px rgb(160, 150, 180);
 }
 
 .display {
